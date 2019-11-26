@@ -1,5 +1,4 @@
-# example-psip-projects
-Example repository using projects for PTCs
+# Example repository using projects for PTCs
 
 - Each PTC is represented by a project that can have an optional description.
 - The current state of the PTCs are visible by clicking on the Projects tab.
